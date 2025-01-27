@@ -1,4 +1,4 @@
-🌟 **Landing Page Test**  
+# 🌟**Landing Page Test**  
 Proyek ini adalah sebuah **landing page sederhana** yang dibangun menggunakan **HTML**, **CSS**, dan **JavaScript**. Landing page ini dirancang untuk menguji tata letak, desain responsif, dan interaktivitas dasar, sekaligus memberikan pengalaman pengguna yang modern.  
 
 💡 **Tentang Proyek**  
